@@ -1,0 +1,764 @@
+1695332714180	geckodriver	INFO	Listening on 127.0.0.1:53075
+1695332717254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileWiSq0m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695332717557	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695332717691	Marionette	INFO	Listening on port 53090
+WebDriver BiDi listening on ws://127.0.0.1:53076
+Read port: 53090
+1695332717845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53076/devtools/browser/05300ad4-5439-41c1-976d-1ba51761d185
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.6lDBK6Ad2Cc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAEACAggIRBDAAQIBHuUgMAAABgBCYAOJgDwCghGoAAAAAAIT9AAAAAAAAC4AAAKAJYEAIUAQEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAKeIBhckAAICIAAAAAAAAAAAAAAqWzyYgAB/d=1/ed=1/dg=2/rs=ACT90oGL8ZVP-Jxsp-Fk-ci12Oes6pthsA/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 397: Script terminated by timeout at:
+_.Fj@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.6lDBK6Ad2Cc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAEACAggIRBDAAQIBHuUgMAAABgBCYAOJgDwCghGoAAAAAAIT9AAAAAAAAC4AAAKAJYEAIUAQEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAKeIBhckAAICIAAAAAAAAAAAAAAqWzyYgAB/d=1/ed=1/dg=2/rs=ACT90oGL8ZVP-Jxsp-Fk-ci12Oes6pthsA/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:397:174
+_.Jj@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.6lDBK6Ad2Cc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAEACAggIRBDAAQIBHuUgMAAABgBCYAOJgDwCghGoAAAAAAIT9AAAAAAAAC4AAAKAJYEAIUAQEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAKeIBhckAAICIAAAAAAAAAAAAAAqWzyYgAB/d=1/ed=1/dg=2/rs=ACT90oGL8ZVP-Jxsp-Fk-ci12Oes6pthsA/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:402:1034
+Ota@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.6lDBK6Ad2Cc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAEACAggIRBDAAQIBHuUgMAAABgBCYAOJgDwCghGoAAAAAAIT9AAAAAAAAC4AAAKAJYEAIUAQEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAKeIBhckAAICIAAAAAAAAAAAAAAqWzyYgAB/d=1/ed=1/dg=2/rs=ACT90oGL8ZVP-Jxsp-Fk-ci12Oes6pthsA/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:414:347
+b@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.6lDBK6Ad2Cc.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAEACAggIRBDAAQIBHuUgMAAABgBCYAOJgDwCghGoAAAAAAIT9AAAAAAAAC4AAAKAJYEAIUAQEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAKeIBhckAAICIAAAAAAAAAAAAAAqWzyYgAB/d=1/ed=1/dg=2/rs=ACT90oGL8ZVP-Jxsp-Fk-ci12Oes6pthsA/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:410:49
+
+1695332723539	Marionette	INFO	Stopped listening on port 53090
+Dynamically enable window occlusion 1
+1695333282099	geckodriver	INFO	Listening on 127.0.0.1:53324
+1695333285190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileTDQPZf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695333285492	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695333285622	Marionette	INFO	Listening on port 53336
+WebDriver BiDi listening on ws://127.0.0.1:53325
+Read port: 53336
+1695333285888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53325/devtools/browser/ffa72149-a901-44b0-95d1-40255bd8297b
+1695333303165	Marionette	INFO	Stopped listening on port 53336
+Dynamically enable window occlusion 1
+1695333331024	geckodriver	INFO	Listening on 127.0.0.1:53387
+1695333334090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilerTvla8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695333334390	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695333334513	Marionette	INFO	Listening on port 53397
+WebDriver BiDi listening on ws://127.0.0.1:53388
+Read port: 53397
+1695333334855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53388/devtools/browser/dc445c88-e1c1-408d-ac2c-22160058a57f
+1695333343703	Marionette	INFO	Stopped listening on port 53397
+Dynamically enable window occlusion 1
+1695333357579	geckodriver	INFO	Listening on 127.0.0.1:53437
+1695333360620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileygNlvZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695333360925	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695333361052	Marionette	INFO	Listening on port 53449
+WebDriver BiDi listening on ws://127.0.0.1:53438
+Read port: 53449
+1695333361209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53438/devtools/browser/06f9ca5c-42e2-4bb8-af40-c31f69a8d65b
+1695333374395	Marionette	INFO	Stopped listening on port 53449
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\uelto\AppData\Local\Temp\rust_mozprofileygNlvZ\sessionCheckpoints.json.tmp) to destination(C:\Users\uelto\AppData\Local\Temp\rust_mozprofileygNlvZ\sessionCheckpoints.json)
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\uelto\AppData\Local\Temp\rust_mozprofileygNlvZ\sessionCheckpoints.json.tmp) to destination(C:\Users\uelto\AppData\Local\Temp\rust_mozprofileygNlvZ\sessionCheckpoints.json)
+1695333392987	geckodriver	INFO	Listening on 127.0.0.1:53491
+1695333396061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilepcBjM0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695333396359	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695333396496	Marionette	INFO	Listening on port 53502
+WebDriver BiDi listening on ws://127.0.0.1:53492
+Read port: 53502
+1695333396667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53492/devtools/browser/a555942a-6357-46ee-b0f4-26dae5ada0ff
+1695333403317	Marionette	INFO	Stopped listening on port 53502
+Dynamically enable window occlusion 1
+1695333695811	geckodriver	INFO	Listening on 127.0.0.1:53628
+1695333698883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileYfXy5O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695333699183	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695333699313	Marionette	INFO	Listening on port 53640
+WebDriver BiDi listening on ws://127.0.0.1:53629
+Read port: 53640
+1695333699476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53629/devtools/browser/76dc3ba9-293d-40c2-88f8-2e8735b6733d
+1695333712260	Marionette	INFO	Stopped listening on port 53640
+Dynamically enable window occlusion 1
+1695333902680	geckodriver	INFO	Listening on 127.0.0.1:53723
+1695333905760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileMYWQgd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695333906056	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695333906175	Marionette	INFO	Listening on port 53736
+WebDriver BiDi listening on ws://127.0.0.1:53724
+Read port: 53736
+1695333906335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53724/devtools/browser/48e105d6-c107-41d2-92d1-48dceab1a7a9
+1695334033186	Marionette	INFO	Stopped listening on port 53736
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\uelto\AppData\Local\Temp\rust_mozprofileMYWQgd\sessionCheckpoints.json.tmp) to destination(C:\Users\uelto\AppData\Local\Temp\rust_mozprofileMYWQgd\sessionCheckpoints.json)
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\uelto\AppData\Local\Temp\rust_mozprofileMYWQgd\sessionCheckpoints.json.tmp) to destination(C:\Users\uelto\AppData\Local\Temp\rust_mozprofileMYWQgd\sessionCheckpoints.json)
+1695334124692	geckodriver	INFO	Listening on 127.0.0.1:53848
+1695334127745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilenmYMqk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695334128098	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695334128242	Marionette	INFO	Listening on port 53859
+WebDriver BiDi listening on ws://127.0.0.1:53849
+Read port: 53859
+1695334128425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53849/devtools/browser/41b1196d-a2ae-4332-8437-b007d3afc431
+1695334154296	Marionette	INFO	Stopped listening on port 53859
+Dynamically enable window occlusion 1
+1695334197503	geckodriver	INFO	Listening on 127.0.0.1:53920
+1695334200557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileSAMIVX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695334200845	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695334200975	Marionette	INFO	Listening on port 53931
+WebDriver BiDi listening on ws://127.0.0.1:53921
+Read port: 53931
+1695334201131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53921/devtools/browser/aa36eeb1-3bea-4401-a257-fa92ed6dec4a
+1695334213421	Marionette	INFO	Stopped listening on port 53931
+Dynamically enable window occlusion 1
+1695334912613	geckodriver	INFO	Listening on 127.0.0.1:54255
+1695334915674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54256" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilegQ7Isk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695334915971	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695334916106	Marionette	INFO	Listening on port 54267
+WebDriver BiDi listening on ws://127.0.0.1:54256
+Read port: 54267
+1695334916276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54256/devtools/browser/54f8f686-7f36-48fe-ab57-327b085a0447
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.jzDPqraur2s.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAEACAggIRBDAAQIBHmUgMAAABgBCYAOJgDwCghGoAAAAAAIT9AAAAAAAAC4AAAKAJYEAIUAQEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAKeIBhckAAICIAAAAAAAAAAAAAAqWzyYgAB/d=1/ed=1/dg=2/rs=ACT90oGrJRk5QtqNa-B5IGrj4QkAp6jdxg/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 410: Script terminated by timeout at:
+b@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.jzDPqraur2s.O/am=CAAAAAAAAAAAAAAAAgCgBsIhgA0wQCAAAgAAEACAggIRBDAAQIBHmUgMAAABgBCYAOJgDwCghGoAAAAAAIT9AAAAAAAAC4AAAKAJYEAIUAQEAAAAQB4AgAcAGERYAAAAAAAAAAAAAAKeIBhckAAICIAAAAAAAAAAAAAAqWzyYgAB/d=1/ed=1/dg=2/rs=ACT90oGrJRk5QtqNa-B5IGrj4QkAp6jdxg/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=cdos,cr,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:410:40
+
+1695334926645	Marionette	INFO	Stopped listening on port 54267
+Dynamically enable window occlusion 1
+1695334954850	geckodriver	INFO	Listening on 127.0.0.1:54345
+1695334957914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileubXUxH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695334958212	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695334958331	Marionette	INFO	Listening on port 54358
+WebDriver BiDi listening on ws://127.0.0.1:54346
+Read port: 54358
+1695334958492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54346/devtools/browser/8ac60694-d89c-4564-8aec-074f17d16441
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.snr.pt_BR.Xq-u8YXG6ro.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMACABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAa0J4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4LCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oGob1yJxzowOoaw8zD9M_ZYqB47cQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 410: Script terminated by timeout at:
+b@https://www.google.com.br/xjs/_/js/k=xjs.snr.pt_BR.Xq-u8YXG6ro.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMACABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAa0J4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4LCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oGob1yJxzowOoaw8zD9M_ZYqB47cQ/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:410:40
+
+1695334965855	Marionette	INFO	Stopped listening on port 54358
+Dynamically enable window occlusion 1
+1695335282505	geckodriver	INFO	Listening on 127.0.0.1:54663
+1695335285585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54664" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileBhURQe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695335285873	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695335285991	Marionette	INFO	Listening on port 54677
+WebDriver BiDi listening on ws://127.0.0.1:54664
+Read port: 54677
+1695335286160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54664/devtools/browser/0842fa01-f4a7-430b-a6ea-051ffdeffe6d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.jzDPqraur2s.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMAAABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAaAJ4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4LCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oFwjLx8dWiWMsCWCQ0SKudt8MEH-w/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 410: Script terminated by timeout at:
+b@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.jzDPqraur2s.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMAAABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAaAJ4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4LCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oFwjLx8dWiWMsCWCQ0SKudt8MEH-w/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:410:40
+
+1695335309985	Marionette	INFO	Stopped listening on port 54677
+Dynamically enable window occlusion 1
+1695335378017	geckodriver	INFO	Listening on 127.0.0.1:54801
+1695335381099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileEEna8N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695335381386	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695335381509	Marionette	INFO	Listening on port 54815
+WebDriver BiDi listening on ws://127.0.0.1:54802
+Read port: 54815
+1695335381666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54802/devtools/browser/f0bc4049-51ab-4b6e-a9d5-c3aaaa5f9994
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54936
+1695335445133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileU0OqtR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695335445423	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695335445544	Marionette	INFO	Listening on port 54952
+WebDriver BiDi listening on ws://127.0.0.1:54937
+Read port: 54952
+1695335445695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54937/devtools/browser/4e5e5e5d-0510-4e48-a664-060426be6bd0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.snr.pt_BR.6N3oPQXC7k0.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMACABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAa0J4EAIWAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4PCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oGgG0wtI1fcRG17stP730WubmqFVw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 410: Script terminated by timeout at:
+b@https://www.google.com.br/xjs/_/js/k=xjs.snr.pt_BR.6N3oPQXC7k0.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMACABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAa0J4EAIWAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4PCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oGgG0wtI1fcRG17stP730WubmqFVw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:410:40
+
+1695335463445	Marionette	INFO	Stopped listening on port 54952
+Dynamically enable window occlusion 1
+1695335600008	geckodriver	INFO	Listening on 127.0.0.1:55118
+1695335603054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileyPCUXU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695335603330	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695335603456	Marionette	INFO	Listening on port 55129
+WebDriver BiDi listening on ws://127.0.0.1:55119
+Read port: 55129
+1695335603610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55119/devtools/browser/0ed576e6-0f0d-4c4e-b4e9-0a0a164969d2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.jzDPqraur2s.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMAAABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAaAJ4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4LCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oFwjLx8dWiWMsCWCQ0SKudt8MEH-w/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 410: Script terminated by timeout at:
+b@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.jzDPqraur2s.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMAAABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAaAJ4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4LCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oFwjLx8dWiWMsCWCQ0SKudt8MEH-w/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:410:40
+
+1695335618297	Marionette	INFO	Stopped listening on port 55129
+Dynamically enable window occlusion 1
+1695335693471	geckodriver	INFO	Listening on 127.0.0.1:55235
+1695335696530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55236" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofiley68JEz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695335696799	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695335696911	Marionette	INFO	Listening on port 55247
+WebDriver BiDi listening on ws://127.0.0.1:55236
+Read port: 55247
+1695335697062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55236/devtools/browser/61922227-24bd-4ba9-910c-0e13985fb71d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55381
+1695335822518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilePQoMCW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695335822821	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695335822944	Marionette	INFO	Listening on port 55393
+WebDriver BiDi listening on ws://127.0.0.1:55382
+Read port: 55393
+1695335823110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55382/devtools/browser/ba6819d5-7f2c-4cca-8283-287f21c62b27
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.snr.pt_BR.6N3oPQXC7k0.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMACABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAa0J4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4PCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oHgC6y9aBLoLSp6FFnQ3-0aRobvXw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 397: Script terminated by timeout at:
+_.Ej@https://www.google.com.br/xjs/_/js/k=xjs.snr.pt_BR.6N3oPQXC7k0.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMACABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAa0J4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4PCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oHgC6y9aBLoLSp6FFnQ3-0aRobvXw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:397:174
+_.Ij@https://www.google.com.br/xjs/_/js/k=xjs.snr.pt_BR.6N3oPQXC7k0.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMACABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAa0J4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4PCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oHgC6y9aBLoLSp6FFnQ3-0aRobvXw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:402:1034
+Ota@https://www.google.com.br/xjs/_/js/k=xjs.snr.pt_BR.6N3oPQXC7k0.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMACABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAa0J4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4PCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oHgC6y9aBLoLSp6FFnQ3-0aRobvXw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:414:347
+b@https://www.google.com.br/xjs/_/js/k=xjs.snr.pt_BR.6N3oPQXC7k0.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMACABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAa0J4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4PCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oHgC6y9aBLoLSp6FFnQ3-0aRobvXw/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:410:49
+
+1695335839448	Marionette	INFO	Stopped listening on port 55393
+Dynamically enable window occlusion 1
+1695335884679	geckodriver	INFO	Listening on 127.0.0.1:55506
+1695335887743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileSLeFvb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695335888013	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695335888125	Marionette	INFO	Listening on port 55518
+WebDriver BiDi listening on ws://127.0.0.1:55507
+Read port: 55518
+1695335888274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55507/devtools/browser/93b5b68f-5090-4026-aecd-cc10794c04b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55837
+1695336191171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilemhvL0G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695336191463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695336191581	Marionette	INFO	Listening on port 55852
+WebDriver BiDi listening on ws://127.0.0.1:55838
+Read port: 55852
+1695336191734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55838/devtools/browser/f6564395-cc86-4975-965d-7183340b1940
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55952
+1695336244729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofiledHgXE2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695336245005	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695336245130	Marionette	INFO	Listening on port 55964
+WebDriver BiDi listening on ws://127.0.0.1:55953
+Read port: 55964
+1695336245280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55953/devtools/browser/2a734652-db3e-4c4b-8abd-6465e6fb94eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56120
+1695336400179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileYBB78n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695336400454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695336400568	Marionette	INFO	Listening on port 56137
+WebDriver BiDi listening on ws://127.0.0.1:56121
+Read port: 56137
+1695336400724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56121/devtools/browser/84b06d8e-a036-4fb5-92f1-15cbb32e4d76
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+JavaScript warning: https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.jzDPqraur2s.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMAAABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAaAJ4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4LCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oFwjLx8dWiWMsCWCQ0SKudt8MEH-w/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 410: Script terminated by timeout at:
+b@https://www.google.com.br/xjs/_/js/k=xjs.s.pt_BR.jzDPqraur2s.O/am=ChAAAQIAAAAAAAAAAgCgAsIhgA0wAP_cBwAAEACAgioRBDAAQID3n0gMAAABgACYAOJgDwCghGrADgAAAIz9AAAAAAAAC4DxAaAJ4EAIUAQEAAAAQB4AnAcQHERYAAAAAAAAAAAAAAKeIBgckB4LCIAAAAAAAAAAAAAAqWzycgABADA/d=1/ed=1/dg=2/rs=ACT90oFwjLx8dWiWMsCWCQ0SKudt8MEH-w/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;VN6jIc:ddQyuf;vfVwPd:lcrkwe;ESrPQc:mNTJvc;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;xBbsrc:NEW1Qc;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,pnvXVc;SMDL4c:fTfGO,pnvXVc;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;qavrXe:zQzcXe,mYbt1d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;XUezZ:sa7lqb;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;bFZ6gf:RsDQqe;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;U96pRd:FsR04;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;lkq0A:JyBE3e;daB6be:lMxGPd;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsa,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:410:40
+
+1695336415207	Marionette	INFO	Stopped listening on port 56137
+Dynamically enable window occlusion 1
+1695336453004	geckodriver	INFO	Listening on 127.0.0.1:56250
+1695336456051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileAUKBqu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695336456350	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695336456476	Marionette	INFO	Listening on port 56264
+WebDriver BiDi listening on ws://127.0.0.1:56251
+Read port: 56264
+1695336456636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56251/devtools/browser/b9762a04-db1e-4f75-89a0-b58122a22efa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.jogajuntoinstituto.org."
+nd: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileu4Sw2g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695337098618	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695337098739	Marionette	INFO	Listening on port 56830
+WebDriver BiDi listening on ws://127.0.0.1:56818
+Read port: 56830
+1695337098914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56818/devtools/browser/fcd4ed75-a772-4b2c-beca-a0ac8e1620fe
+1695337114099	Marionette	INFO	Stopped listening on port 56830
+Dynamically enable window occlusion 1
+1695337220430	geckodriver	INFO	Listening on 127.0.0.1:56955
+1695337223488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56956" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileCosXeM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695337223784	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695337223919	Marionette	INFO	Listening on port 56967
+WebDriver BiDi listening on ws://127.0.0.1:56956
+Read port: 56967
+1695337224081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56956/devtools/browser/1ce49668-aaf0-4842-9314-caa086d0b311
+1695337234028	Marionette	INFO	Stopped listening on port 56967
+Dynamically enable window occlusion 1
+1695337347646	geckodriver	INFO	Listening on 127.0.0.1:57142
+1695337350702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilerC7Hhf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695337350988	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695337351114	Marionette	INFO	Listening on port 57154
+WebDriver BiDi listening on ws://127.0.0.1:57143
+Read port: 57154
+1695337351279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57143/devtools/browser/3071ec58-9e28-41d8-9d28-37d67394bfae
+1695337386337	geckodriver	INFO	Listening on 127.0.0.1:57233
+1695337389408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilezbu3ZI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695337389744	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695337389872	Marionette	INFO	Listening on port 57248
+WebDriver BiDi listening on ws://127.0.0.1:57234
+Read port: 57248
+1695337390227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57234/devtools/browser/74349bf6-798e-4aeb-bfda-5c843117d50f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.jogajuntoinstituto.org."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1695337559961	Marionette	INFO	Stopped listening on port 57248
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileU5UQaw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695337434046	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695337434176	Marionette	INFO	Listening on port 57351
+WebDriver BiDi listening on ws://127.0.0.1:57339
+Read port: 57351
+1695337434367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57339/devtools/browser/5151c870-c6ed-4630-803a-d43866f15c75
+1695337451453	Marionette	INFO	Stopped listening on port 57351
+Dynamically enable window occlusion 1
+1695337467935	geckodriver	INFO	Listening on 127.0.0.1:57424
+1695337470994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilesyDKNY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695337471636	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695337471757	Marionette	INFO	Listening on port 57436
+WebDriver BiDi listening on ws://127.0.0.1:57425
+Read port: 57436
+1695337471930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57425/devtools/browser/c3e9818e-daa0-48ed-8873-2e289fafe882
+1695337486463	Marionette	INFO	Stopped listening on port 57436
+Dynamically enable window occlusion 1
+1695337527967	geckodriver	INFO	Listening on 127.0.0.1:57516
+1695337531029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileM6S3d5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695337531325	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695337531462	Marionette	INFO	Listening on port 57529
+WebDriver BiDi listening on ws://127.0.0.1:57517
+Read port: 57529
+1695337531631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57517/devtools/browser/139a4e0f-663e-4054-819f-e9dc139e58a0
+1695337558982	Marionette	INFO	Stopped listening on port 57529
+Dynamically enable window occlusion 1
+1695337590867	geckodriver	INFO	Listening on 127.0.0.1:57634
+1695337593931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileeUYFPQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695337594235	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695337594360	Marionette	INFO	Listening on port 57648
+WebDriver BiDi listening on ws://127.0.0.1:57635
+Read port: 57648
+1695337594525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57635/devtools/browser/a466f72d-893d-4a5e-a96e-e4dca81f25e4
+1695337609821	Marionette	INFO	Stopped listening on port 57648
+Dynamically enable window occlusion 1
+1695337616712	geckodriver	INFO	Listening on 127.0.0.1:57706
+1695337619774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile1QCc80"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695337620074	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695337620195	Marionette	INFO	Listening on port 57720
+WebDriver BiDi listening on ws://127.0.0.1:57707
+Read port: 57720
+1695337620357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57707/devtools/browser/e3d9681d-0bec-4fa4-a6d1-7dd1b519d08c
+1695337640974	Marionette	INFO	Stopped listening on port 57720
+Dynamically enable window occlusion 1
+1695337679820	geckodriver	INFO	Listening on 127.0.0.1:57819
+1695337682875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileoXfDe4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695337683176	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695337683296	Marionette	INFO	Listening on port 57832
+WebDriver BiDi listening on ws://127.0.0.1:57820
+Read port: 57832
+1695337683452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57820/devtools/browser/881e8c4f-ec0d-4171-91da-bbfa565728f8
+1695339282497	geckodriver	INFO	Listening on 127.0.0.1:59127
+1695339285530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileJih3j3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695339285818	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695339285943	Marionette	INFO	Listening on port 59141
+WebDriver BiDi listening on ws://127.0.0.1:59128
+Read port: 59141
+1695339286099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59128/devtools/browser/c5b0826f-d1f8-4c92-9aac-15e54323edea
+1695340508745	geckodriver	INFO	Listening on 127.0.0.1:60104
+1695340511798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilezI5ePD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695340512084	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695340512211	Marionette	INFO	Listening on port 60119
+WebDriver BiDi listening on ws://127.0.0.1:60105
+Read port: 60119
+1695340512366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60105/devtools/browser/0d892829-6937-40be-950c-8c599ac8ac7c
+1695340918107	geckodriver	INFO	Listening on 127.0.0.1:60437
+1695340921161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileaUegCr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695340921449	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695340921560	Marionette	INFO	Listening on port 60451
+WebDriver BiDi listening on ws://127.0.0.1:60438
+Read port: 60451
+1695340921734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60438/devtools/browser/87b0a7e8-e38f-4ac8-95a1-f9735cdd3fe2
+1695341029560	geckodriver	INFO	Listening on 127.0.0.1:60572
+1695341032622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileLSe4Op"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695341032911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695341033024	Marionette	INFO	Listening on port 60585
+WebDriver BiDi listening on ws://127.0.0.1:60573
+Read port: 60585
+1695341033177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60573/devtools/browser/460d97f4-3026-4eca-ac69-3a027edfaf00
+1695341319294	geckodriver	INFO	Listening on 127.0.0.1:60852
+1695341322355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile3nqkuM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695341322632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695341322756	Marionette	INFO	Listening on port 60867
+WebDriver BiDi listening on ws://127.0.0.1:60853
+Read port: 60867
+1695341322908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60853/devtools/browser/5c0ab524-af9f-4fcc-9f2d-82a2816d1e2e
+1695341373217	geckodriver	INFO	Listening on 127.0.0.1:60960
+1695341376288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilezicRHt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695341376569	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695341376689	Marionette	INFO	Listening on port 60978
+WebDriver BiDi listening on ws://127.0.0.1:60961
+Read port: 60978
+1695341376841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60961/devtools/browser/c7c0c75d-e6e0-4698-84cc-c211db6feaad
+1695341465970	Marionette	INFO	Stopped listening on port 60978
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: OperationError: Could not move temporary file(C:\Users\uelto\AppData\Local\Temp\rust_mozprofilezicRHt\sessionCheckpoints.json.tmp) to destination(C:\Users\uelto\AppData\Local\Temp\rust_mozprofilezicRHt\sessionCheckpoints.json)
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: OperationError: Could not move temporary file(C:\Users\uelto\AppData\Local\Temp\rust_mozprofilezicRHt\sessionCheckpoints.json.tmp) to destination(C:\Users\uelto\AppData\Local\Temp\rust_mozprofilezicRHt\sessionCheckpoints.json)
+1695341666748	geckodriver	INFO	Listening on 127.0.0.1:61243
+1695341669783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilejOHQKs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695341670068	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695341670193	Marionette	INFO	Listening on port 61256
+WebDriver BiDi listening on ws://127.0.0.1:61244
+Read port: 61256
+1695341670352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61244/devtools/browser/d533935d-64c9-4836-9819-656bf3525d00
+1695341722426	geckodriver	INFO	Listening on 127.0.0.1:61358
+1695341725501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileIgFgpB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695341725783	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695341725901	Marionette	INFO	Listening on port 61369
+WebDriver BiDi listening on ws://127.0.0.1:61359
+Read port: 61369
+1695341726051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61359/devtools/browser/702ab6a0-6294-4fdb-acbf-d13dcf13324c
+1695341778270	Marionette	INFO	Stopped listening on port 61369
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: OperationError: Could not move temporary file(C:\Users\uelto\AppData\Local\Temp\rust_mozprofileIgFgpB\sessionCheckpoints.json.tmp) to destination(C:\Users\uelto\AppData\Local\Temp\rust_mozprofileIgFgpB\sessionCheckpoints.json)
+1695341809591	geckodriver	INFO	Listening on 127.0.0.1:61474
+1695341812651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile5P0qSq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695341812938	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695341813065	Marionette	INFO	Listening on port 61487
+WebDriver BiDi listening on ws://127.0.0.1:61475
+Read port: 61487
+1695341813218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61475/devtools/browser/235e67ab-e126-4357-b0b0-94e49fe13064
+1695341825064	Marionette	INFO	Stopped listening on port 61487
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1194: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1695341843639	geckodriver	INFO	Listening on 127.0.0.1:61553
+1695341846698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileyKYPYR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695341846981	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695341847106	Marionette	INFO	Listening on port 61566
+WebDriver BiDi listening on ws://127.0.0.1:61554
+Read port: 61566
+1695341847259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61554/devtools/browser/e8faa9ed-e4f8-434a-a999-f4a24db8b51d
+1695341870003	Marionette	INFO	Stopped listening on port 61566
+Dynamically enable window occlusion 1
+1695341963824	geckodriver	INFO	Listening on 127.0.0.1:61691
+1695341966863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileZ5M6iU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695341967146	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695341967272	Marionette	INFO	Listening on port 61704
+WebDriver BiDi listening on ws://127.0.0.1:61692
+Read port: 61704
+1695341967430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61692/devtools/browser/354a3e5c-1b66-46a3-84fd-eae0ea2a53df
+1695341999586	Marionette	INFO	Stopped listening on port 61704
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: (new AbortError("IndexedDB: main/search-default-override-allowlist getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1695342018324	geckodriver	INFO	Listening on 127.0.0.1:61786
+1695342021389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilekSgr9F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695342021666	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695342021783	Marionette	INFO	Listening on port 61799
+WebDriver BiDi listening on ws://127.0.0.1:61787
+Read port: 61799
+1695342021937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61787/devtools/browser/d286942a-087c-49de-b224-411374eb9013
+1695342039635	Marionette	INFO	Stopped listening on port 61799
+Dynamically enable window occlusion 1
+1695344970341	geckodriver	INFO	Listening on 127.0.0.1:63461
+1695344973407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilemDmnuQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695344973723	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695344973853	Marionette	INFO	Listening on port 63478
+WebDriver BiDi listening on ws://127.0.0.1:63462
+Read port: 63478
+1695344974011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63462/devtools/browser/94b8f1a2-6a96-4857-8912-902775b412c2
+1695345396554	Marionette	INFO	Stopped listening on port 63478
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilebdwbNt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695345099237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695345099349	Marionette	INFO	Listening on port 63634
+WebDriver BiDi listening on ws://127.0.0.1:63623
+Read port: 63634
+1695345099505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63623/devtools/browser/0d1a5227-ee0a-4f7f-a00a-592e06dec712
+1695345194992	geckodriver	INFO	Listening on 127.0.0.1:63746
+1695345198052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63747" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileSbGrvt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695345198336	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695345198471	Marionette	INFO	Listening on port 63758
+WebDriver BiDi listening on ws://127.0.0.1:63747
+Read port: 63758
+1695345198651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63747/devtools/browser/5ae1ea17-7fb2-44f3-9c18-6bf31847ba8b
+1695345223916	Marionette	INFO	Stopped listening on port 63758
+Dynamically enable window occlusion 1
+1695345503831	geckodriver	INFO	Listening on 127.0.0.1:63972
+1695345506887	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofiled95f2t"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695345507167	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695345507282	Marionette	INFO	Listening on port 63987
+WebDriver BiDi listening on ws://127.0.0.1:63973
+Read port: 63987
+1695345507453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63973/devtools/browser/43997693-92a5-469f-9695-2c7c29020e9e
+1695345527014	Marionette	INFO	Stopped listening on port 63987
+Dynamically enable window occlusion 1
+1695345591776	geckodriver	INFO	Listening on 127.0.0.1:64086
+1695345594808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilecrDhF8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695345595082	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695345595202	Marionette	INFO	Listening on port 64098
+WebDriver BiDi listening on ws://127.0.0.1:64087
+Read port: 64098
+1695345595354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64087/devtools/browser/400f41fe-4c62-464d-b013-18dd59fd8196
+1695345618107	Marionette	INFO	Stopped listening on port 64098
+Dynamically enable window occlusion 1
+1695345730030	geckodriver	INFO	Listening on 127.0.0.1:64233
+1695345733080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilejh3eTE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695345733374	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695345733508	Marionette	INFO	Listening on port 64247
+WebDriver BiDi listening on ws://127.0.0.1:64234
+Read port: 64247
+1695345733669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64234/devtools/browser/2a927ede-e491-4e50-b3b8-788289689093
+1695345759051	Marionette	INFO	Stopped listening on port 64247
+Dynamically enable window occlusion 1
+1695345764674	geckodriver	INFO	Listening on 127.0.0.1:64314
+1695345767712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileXKfWR3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695345768004	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695345768124	Marionette	INFO	Listening on port 64327
+WebDriver BiDi listening on ws://127.0.0.1:64315
+Read port: 64327
+1695345768305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64315/devtools/browser/f6e8ccea-d5f3-4401-8908-dafd19caa240
+1695345789415	Marionette	INFO	Stopped listening on port 64327
+Dynamically enable window occlusion 1
+1695345807024	geckodriver	INFO	Listening on 127.0.0.1:64428
+1695345816502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileDBQfvk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695345816783	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695345816901	Marionette	INFO	Listening on port 64445
+WebDriver BiDi listening on ws://127.0.0.1:64429
+Read port: 64445
+1695345817052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64429/devtools/browser/297bf29c-8b04-4faf-8b40-c47d2c804e8b
+1695345840464	Marionette	INFO	Stopped listening on port 64445
+Dynamically enable window occlusion 1
+1695345848698	geckodriver	INFO	Listening on 127.0.0.1:64516
+1695345851747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofileQuRRwS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695345852053	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695345852182	Marionette	INFO	Listening on port 64529
+WebDriver BiDi listening on ws://127.0.0.1:64517
+Read port: 64529
+1695345852335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64517/devtools/browser/83140b62-7f8c-4220-b8d6-03fea07777e6
+1695345870490	Marionette	INFO	Stopped listening on port 64529
+Dynamically enable window occlusion 1
+1695346256806	geckodriver	INFO	Listening on 127.0.0.1:64853
+1695346259878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile5U0wqe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695346260169	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695346260290	Marionette	INFO	Listening on port 64866
+WebDriver BiDi listening on ws://127.0.0.1:64854
+Read port: 64866
+1695346260460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64854/devtools/browser/c211ff8c-fc12-4467-86ee-1a46cfb92e61
+1695346279325	Marionette	INFO	Stopped listening on port 64866
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1194: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1695346589214	geckodriver	INFO	Listening on 127.0.0.1:65164
+1695346592279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofilev6irzw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695346592588	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695346592712	Marionette	INFO	Listening on port 65177
+WebDriver BiDi listening on ws://127.0.0.1:65165
+Read port: 65177
+1695346592865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65165/devtools/browser/75ae416c-4c94-4ff2-bdc0-15cf4f2bcdac
+1695346609813	Marionette	INFO	Stopped listening on port 65177
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1194: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1695346629340	geckodriver	INFO	Listening on 127.0.0.1:65251
+1695346632397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65252" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\uelto\\AppData\\Local\\Temp\\rust_mozprofile934z6N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695346632675	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695346632796	Marionette	INFO	Listening on port 65263
+WebDriver BiDi listening on ws://127.0.0.1:65252
+Read port: 65263
+1695346632970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65252/devtools/browser/74b5f9ca-0c6c-4d31-93f7-b04e3416b292
+1695346649634	Marionette	INFO	Stopped listening on port 65263
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1194: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
