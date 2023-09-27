@@ -42,7 +42,8 @@ print(form_btn)
 form_btn.submit()
 
 
-sleep(8)
+sleep(5)
+
 navegador.quit()
 
 
